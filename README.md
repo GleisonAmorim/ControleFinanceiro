@@ -2,6 +2,10 @@
 
 ## Bem-vindo ao Controle Financeiro App!
 
+
+![image](https://github.com/GleisonAmorim/ControleFinanceiro/assets/54336609/94748ddd-5c60-414d-befc-32ee2f350096)
+
+
 ### Descrição:
 O Controle Financeiro App é uma aplicação simples e poderosa para ajudar você a gerenciar suas finanças pessoais. Registre suas transações, acompanhe seus gastos e receitas, e tenha uma visão clara do seu panorama financeiro.
 
